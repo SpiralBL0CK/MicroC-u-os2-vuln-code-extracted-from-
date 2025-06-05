@@ -25,7 +25,7 @@ void task1(void *pdata){
 
 void task2(void *pdata){
   while(1){
-    printf("Credential matched\n");
+    printf("ctf{hardware_hacker}"\n");
     OSTimeDlyHMSM(0,0,3,0);
   }
 }
